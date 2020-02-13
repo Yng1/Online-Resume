@@ -1,0 +1,90 @@
+
+body {
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+
+}   
+
+hr {
+    margin-top: 150px;
+    margin-bottom: 50px;
+}
+
+h6 {
+    font-weight: bold;
+}
+
+.avatar {
+    width: 40%;
+}
+
+img {
+
+    width: 10%;
+    border-radius: 100%;
+}
+
+.section {
+
+    margin-left: 10%;
+    margin-right: 10%;
+
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.section-row {
+
+    margin-bottom: 40px;
+    text-align: left;
+=
+}
+
+.section-images {
+    float: left;
+    margin-right: 20px;
+}
+
+.org-section {
+    margin-left: 10%;
+    margin-right: 10%;
+
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+
+.org-section-row {
+    text-align: center;
+}
+
+.org-section-images {
+    width: 15%;
+}
+
+
+/**************************** TOP SECTION *************************/
+
+.top-section {
+    margin-top: 60px;
+}
+
+.name {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    font-family: 'Shadows Into Light', cursive;
+}
+
+.carousel-image {
+    width: 20%;
+
+}
+
+/*************************** Footer *****************************/
+
+.footer {
+    background-color: #7fcd91;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+}
